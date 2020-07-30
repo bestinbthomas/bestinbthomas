@@ -1,4 +1,11 @@
 ### Hi there 👋
+## I am Bestin B Thomas
+
+🎓 Student at National Institute of Technology, Tiruchirappalli
+
+Feel free to go through my repositories 👍
+
+🌐 Website: [bestinbthomas.me](https://bestinbthomas.me) 
 
 <!--
 **bestinbthomas/bestinbthomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
