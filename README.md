@@ -1,9 +1,11 @@
 ### Hi there 👋
 ## I am Bestin B Thomas
 
+❤️ coder by passion
+
 🎓 Student at National Institute of Technology, Tiruchirappalli
 
-Feel free to go through my repositories 👍
+👍 Feel free to go through my repositories
 
 🌐 Website: [bestinbthomas.me](https://bestinbthomas.me) 
 
