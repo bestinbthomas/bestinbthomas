@@ -7,7 +7,7 @@
 
 👍 Feel free to go through my repositories
 
-🌐 Website: [bestinbthomas.me](https://bestinbthomas.me) 
+🌐 Website: [bestinbthomas.github.io](https://bestinbthomas.github.io) 
 
 <!--
 **bestinbthomas/bestinbthomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
