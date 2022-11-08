@@ -3,7 +3,9 @@
 
 ❤️ coder by passion
 
-🎓 Student at National Institute of Technology, Tiruchirappalli
+🏢 Working at [LG Ads Solutions](https://lgads.tv)
+
+🎓 Studied at National Institute of Technology, Tiruchirappalli
 
 👍 Feel free to go through my repositories
 
