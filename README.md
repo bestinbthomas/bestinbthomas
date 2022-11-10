@@ -3,7 +3,7 @@
 
 ❤️ coder by passion
 
-🏢 Working at [LG Ads Solutions](https://lgads.tv)
+🏢 Working at [LG Ad Solutions](https://lgads.tv)
 
 🎓 Studied at National Institute of Technology, Tiruchirappalli
 
